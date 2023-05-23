@@ -9,4 +9,8 @@ items:
   target: ''
   kind: blank
   children: []
+- title: Soumettre un projet
+  target: ''
+  kind: blank
+  children: []
 
