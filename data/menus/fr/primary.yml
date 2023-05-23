@@ -5,8 +5,4 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Nous soutenir
-  target: ''
-  kind: blank
-  children: []
 
