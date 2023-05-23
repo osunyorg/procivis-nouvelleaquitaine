@@ -5,10 +5,6 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Découvrir la Fondation
-  target: ''
-  kind: blank
-  children: []
 - title: Soumettre un projet
   target: ''
   kind: blank
