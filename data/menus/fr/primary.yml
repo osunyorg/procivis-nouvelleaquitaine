@@ -5,4 +5,8 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+- title: Qui sommes-nous
+  target: ''
+  kind: blank
+  children: []
 
