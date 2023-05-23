@@ -5,10 +5,6 @@ items:
   target: "/actualites/"
   kind: page
   children: []
-- title: Soumettre un projet
-  target: ''
-  kind: blank
-  children: []
 - title: Nous soutenir
   target: ''
   kind: blank
