@@ -5,6 +5,7 @@ items:
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Découvrir la Fondation
   target: ''
   kind: blank
