@@ -4,19 +4,23 @@ items:
 - title: Actualités
   target: "/actualites/"
   kind: page
+  new_tab: false
   children: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Découvrir la Fondation
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: Soumettre un projet
   target: ''
   kind: blank
+  new_tab: false
   children: []
 - title: Qui sommes-nous
   target: ''
   kind: blank
+  new_tab: false
   children: []
 
