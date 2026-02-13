@@ -2,25 +2,33 @@
 title: Menu principal
 items:
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Découvrir la Fondation
+  slug: decouvrir-la-fondation
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Soumettre un projet
+  slug: soumettre-un-projet
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 - title: Qui sommes-nous
+  slug: qui-sommes-nous
   target: ''
   kind: blank
   new_tab: false
   children: []
+  descendants_targets: []
 
